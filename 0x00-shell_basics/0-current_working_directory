@@ -1,3 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/home/holberton-system_engineering-devops/0x00-shell_basics
-echo $PATH
+echo $PATH:/home/holberton-system_engineering-devops/0x00-shell_basics"\n"
