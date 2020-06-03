@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH:/home/holberton-system_engineering-devops/0x00-shell_basics"\n"
+echo -e "\n" $PATH:/home/holberton-system_engineering-devops/0x00-shell_basics
