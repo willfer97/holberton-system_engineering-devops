@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | sort -gr
+ls | sort -gr
